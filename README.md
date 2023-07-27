@@ -1,4 +1,4 @@
-# 📝 ![A Mentorship Feedback Form!](https://mentorship-form-omega.vercel.app/)
+# 📝 [A Mentorship Feedback Form](https://mentorship-form-omega.vercel.app/)
 
 > <img src="./design/mentorship-thumbnail.png" width="560" />
 
