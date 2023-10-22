@@ -1,6 +1,6 @@
 # 📝 [A Mentorship Feedback Form](https://mentorship-form-omega.vercel.app/)
 
-> <img src="./design/mentorship-thumbnail.png" width="560" />
+<img src="./design/mentorship-thumbnail.png" width="560" />
 
 ## Table of Contents
 
@@ -24,4 +24,4 @@
 
 - Design: [Rocketseat](https://www.rocketseat.com.br/)
   
-- Code: ![Caio Rocha](https://github.com/Invocador)
+- Code: [Caio Rocha](https://github.com/caiowrocha)
